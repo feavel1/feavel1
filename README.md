@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @feavel1
-- 👀 I’m interested in Next.js, Svelte, Rust, Ableton Live.
+- 👀 I’m interested in Svelte, Supabase, TailwindCss, Rust, Ableton Live.
 - 🌱 I’m currently learning SurrealDB, C++, philosophy
 - 💞️ I’m looking to collaborate on music and front-end
 - 📫 How to reach me feavel@qq.com
