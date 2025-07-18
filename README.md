@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feavel1
-- 👀 I’m interested in Svelte, Supabase, TailwindCss, Rust, Ableton Live.
-- 🌱 I’m currently learning SurrealDB, C++, philosophy
+- 👀 I’m interested in Svelte, Supabase, Ableton Live.
+- 🌱 I’m currently learning Kant, Deluze, Lacan
 - 💞️ I’m looking to collaborate on music and front-end
 - 📫 How to reach me feavel@qq.com
 
